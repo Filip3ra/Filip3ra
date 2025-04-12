@@ -1,5 +1,3 @@
-## 👋 Olá! Seja bem vindo ao meu perfil
-
 <h1 align="center"> 🤙 Olá! Bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedora Backend | Ciência da Computação</i></p>
 
