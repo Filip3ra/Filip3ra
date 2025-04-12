@@ -1,8 +1,32 @@
-## 👋 Olá pessoal! Filipi aqui...
-- 💬 Sobre mim: Graduando em Ciência da Computação, experiência em analise de dados e desenvolvimento backend.
-- ⚡ Atualmente busco solidificar meus conhecimentos em linguagens orientadas a objetos, como C# e Java.
+## 👋 Olá! Seja bem vindo ao meu perfil
 
+<h1 align="center"> 🤙 Olá! Bem-vindo(a) ao meu GitHub! </h1> 
+<p align="center"><i>Desenvolvedora Backend | Ciência da Computação</i></p>
 
+---
+
+## 💬 Sobre mim
+Me chamo **Filipi**, Graduando em Ciência da Computação, experiência em analise de dados e desenvolvimento backend.
+Atualmente busco solidificar meus conhecimentos em linguagens orientadas a objetos, como C# e Java.
+
+---
+
+<div align="center">
+<!--  <a href="https://portfolio-2-swart-tau.vercel.app/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio icon" />
+  </a> -->
+  <a href="mailto:filipijardimrm@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a> 
+  <a href="https://www.linkedin.com/in/filipi-maciel-891300132/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="https://wa.me/5538992160517">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
+  </a>
+</div>
+
+---
 
 ## 📈 GitHub Stats
 
