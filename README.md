@@ -5,7 +5,7 @@
 
 ## 💬 Sobre mim
 Me chamo **Filipi**, Graduando em Ciência da Computação, experiência em analise de dados e desenvolvimento backend.
-Atualmente busco solidificar meus conhecimentos em linguagens orientadas a objetos, como C# e Java.
+Atualmente busco solidificar meus conhecimentos em linguagens orientadas a objetos.
 
 ---
 
