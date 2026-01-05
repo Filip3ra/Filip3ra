@@ -30,18 +30,18 @@ Software Engineer focused on Backend development with C# and .NET Core. Backgrou
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filip3ra&layout=compact&theme=github_dark)](https://github.com/Filip3ra)
 ![Filipi GitHub stats](https://github-readme-stats.vercel.app/api?username=Filip3ra&show_icons=true&theme=github_dark&hide_title=true) 
 
-## 🔥 Experiência
+## 🔥 Experience
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![VBA](https://img.shields.io/badge/-VBA-117AC9?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-## 🧰 Ferramentas
+## 🧰 Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📚 Estudando
+## 📚 Studying
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
