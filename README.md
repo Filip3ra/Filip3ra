@@ -1,11 +1,10 @@
-<h1 align="center"> 🤙 Olá! Bem-vindo(a) ao meu GitHub! </h1> 
-<p align="center"><i>Desenvolvedor Backend | Ciência da Computação</i></p>
+<h1 align="center"> 🤙 Hello! Welcome to my GitHub! </h1> 
+<p align="center"><i>Backend Developer | C# .NET Core | SQL & NoSQL | Software Engineering | Computer Science</i></p>
 
 ---
 
-## 💬 Sobre mim
-Me chamo **Filipi**, Graduando em Ciência da Computação, experiência em analise de dados e desenvolvimento backend.
-Atualmente busco solidificar meus conhecimentos em linguagens orientadas a objetos.
+## 💬 About me
+Software Engineer focused on Backend development with C# and .NET Core. Background in Data Analysis and Project Management. Committed to building scalable systems and contributing to open-source projects.
 
 ---
 
