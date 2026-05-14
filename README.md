@@ -1,8 +1,8 @@
 <h1 align="center"> 🤙 Hello! Welcome to my GitHub! </h1> 
-<p align="center"><i>Backend Developer | C# .NET Core | SQL & NoSQL | Software Engineering | Computer Science</i></p>
+<p align="center"><i>Software Engineering | Computer Science</i></p>
 
 ---
-
+<!--
 ## 💬 About me
 Software Engineer focused on Backend development with C# and .NET Core. Background in Data Analysis and Project Management. Committed to building scalable systems and contributing to open-source projects.
 
@@ -12,6 +12,8 @@ Software Engineer focused on Backend development with C# and .NET Core. Backgrou
 <!--  <a href="https://portfolio-2-swart-tau.vercel.app/">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio icon" />
   </a> -->
+
+  <!--
   <a href="mailto:filipijardimrm@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a> 
@@ -49,3 +51,5 @@ Software Engineer focused on Backend development with C# and .NET Core. Backgrou
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+-->
