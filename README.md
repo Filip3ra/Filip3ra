@@ -1,5 +1,5 @@
 <h1 align="center"> 🤙 Hello! Welcome to my GitHub! </h1> 
-<p align="center"><i>Software Engineering | Computer Science</i></p>
+<p align="center"><i>Data Analyst | Computer Science</i></p>
 
 ---
 <!--
